@@ -33,15 +33,15 @@ that separates Parkinson's patients (147 samples) from healthy controls (48 samp
 ## Results
 
 ```
-Accuracy : ~94–97%
+Accuracy : 94.8%
 
               precision    recall  f1-score
-Healthy           0.90      0.90      0.90
-Parkinson's       0.97      0.97      0.97
+Healthy           1.00      0.71      0.83
+Parkinson's       0.94      1.00      0.97
 ```
 
-> **Sensitivity** (Parkinson's correctly detected): ~96%  
-> **Specificity** (Healthy correctly cleared): ~90%
+> **Sensitivity** (Parkinson's correctly detected): 100.00%
+> **Specificity** (Healthy correctly cleared): 71.43%
 
 ---
 
