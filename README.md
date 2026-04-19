@@ -1,11 +1,11 @@
-# 🧠 Parkinson's Disease Detection using XGBoost
+# Parkinson's Disease Detection using XGBoost
 
 Detecting Parkinson's Disease from **voice measurements** using machine learning.  
 Built with Python, XGBoost, and scikit-learn. 
 
 ---
 
-## 📌 Overview
+## Overview
 
 Parkinson's Disease affects the vocal muscles, causing measurable abnormalities in speech.
 This project uses **22 voice biomarker features** (like jitter, shimmer, and HNR) from the
